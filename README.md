@@ -9,4 +9,5 @@ Page created for the EdX training on data visualisation
 
 
 
-https://public.tableau.com/views/Firstdashboard_15888928742910/Sheet1?:display_count=y&publish=yes&:origin=viz_share_link
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://public.tableau.com/views/Firstdashboard_15888928742910/Sheet1?:display_count=y&publish=yes&:origin=viz_share_link"></iframe>
+
